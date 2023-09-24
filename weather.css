@@ -1,0 +1,55 @@
+body{
+    /* background-image: url(./img/Featured-Image-Live-Weather-Wallpapers-Android.jpg); */
+    background-repeat:no-repeat ;
+    background-size: cover;
+}
+.mainDiv{
+    filter: brightness(100%) !important;
+    
+}
+.head1{
+    font-size: 86px;
+}
+.temp{
+    border-radius: 30px;
+    background-color: rgba(255, 255, 255, 0.107);
+
+}
+input,button,.loc{
+    background-color: rgba(255, 255, 255, 0.351);
+    border: 0px;
+    border-radius: 15px;
+    height: 40px;
+    display: inline;
+}
+button{
+    width: 50px !important;
+}
+::placeholder{
+    color: rgb(255, 255, 255);
+    font-weight: 500;
+}
+.head2{
+    border-bottom:2px white solid ;
+    font-size: 50px;
+}
+p{
+    color: white;
+    font-size: 30px;
+}
+a{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    
+}
+.aDiv{
+    background-color: rgba(255, 255, 255, 0.351);
+    border: 0px;
+    border-radius: 15px;
+    display: inline;
+    height: 40px;
+
+}
+.i1{
+    font-size: 40px;
+}
